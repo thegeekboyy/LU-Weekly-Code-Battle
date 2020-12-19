@@ -1,0 +1,9 @@
+Question of week 28:
+
+You are Bablu Pandit, Ramakant and Vasudha's younger son,
+ who was excellent in studies and wanted to be an IAS Officer by clearing UPSC exam, 
+but later worked as employee in Kaleen Bhaiya's illegal business of guns. 
+You wanted to send some private information from a PDF file to a dealer through the
+ kabutars but they didn't know how to read so being Bablu Pandit 
+Write a Python/Javascript program to make an Audio book of the pdf file
+ so that the information gets conveyed to the dealer.
